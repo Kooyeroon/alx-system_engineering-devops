@@ -1,0 +1,1 @@
+shell basic activities readme
