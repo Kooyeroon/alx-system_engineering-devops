@@ -1,0 +1,3 @@
+ISSUE SUMMARY:
+This postmortem report offers a thorough examination of the DDoS attack incident that transpired on January 15, 2024, from 8:00 PM to 1:00 AM (WAT). The event was marked by a malevolent Distributed Denial of Service (DDoS) attack, leading to sporadic downtime and decreased service quality. Around 40% of users encountered disruptions, resulting in a substantial impact on the organization's web services. The report delineates the chronological sequence of the incident, conducts a root cause analysis, evaluates the extent of the impact, and suggests preventive measures to forestall similar occurrences in the future.
+
